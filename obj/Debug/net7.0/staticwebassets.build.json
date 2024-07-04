@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "h2m8Z7jFRPq25ptx4aVH8RafK4nOlzZX/rEv6zP+MYk=",
+  "Source": "library77",
+  "BasePath": "_content/library77",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "library77\\wwwroot",
+      "Source": "library77",
+      "ContentRoot": "C:\\PROJECTS\\library77\\library777\\library77\\wwwroot\\",
+      "BasePath": "_content/library77",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\PROJECTS\\library77\\library777\\library77\\wwwroot\\index.html.cs",
+      "SourceId": "library77",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PROJECTS\\library77\\library777\\library77\\wwwroot\\",
+      "BasePath": "_content/library77",
+      "RelativePath": "index.html.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html.cs"
+    }
+  ]
+}

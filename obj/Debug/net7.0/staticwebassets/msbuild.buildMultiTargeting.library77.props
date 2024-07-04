@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\library77.props" />
+</Project>
